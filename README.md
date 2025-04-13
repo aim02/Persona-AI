@@ -171,4 +171,7 @@ Membangun sistem self-tracking yang fleksibel dan berbasis AI untuk membantu pen
 ---
 
 > 📌 Dibuat dengan semangat self-growth dan teknologi ✨  
-> Powered by Python, NLP, and your real-life efforts.  
+> Powered by Python, NLP, and your real-life efforts.
+
+![Preview](https://i.redd.it/gyimgw5nm4f61.png)
+

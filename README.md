@@ -1,4 +1,4 @@
-# 🧠 Self-Tracking AI System
+# 🧠 Persona-AI System
 
 Sebuah sistem self-tracking berbasis AI yang membantu pengguna melacak dan mengembangkan diri melalui aktivitas sehari-hari secara otomatis dan menyenangkan.
 

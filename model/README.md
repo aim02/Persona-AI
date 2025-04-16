@@ -28,5 +28,5 @@ Model yang digunakan saat ini dilatih dengan dataset yang terbatas. Untuk mening
 Model saat ini mencapai akurasi 84,62% untuk klasifikasi Tingkat Aktivitas, yang masih kurang dari target >90%.
 
 ## Download Model
-- [Download Model Persona (Fold 3)]([Here](https://drive.google.com/drive/folders/1BKakPl7nb4rCx7kssn9hS5blkA3YWtHG?usp=sharing))
-- [Download Model Tingkat Aktivitas (Fold 3)]([Here](https://drive.google.com/drive/folders/1WrYlbvqBIRNQOXUO_B3u2Tm7JGvknTYm?usp=sharing))
+- [Download Model Persona (Fold 3)](https://drive.google.com/drive/folders/1BKakPl7nb4rCx7kssn9hS5blkA3YWtHG?usp=sharing)
+- [Download Model Tingkat Aktivitas (Fold 3)](https://drive.google.com/drive/folders/1WrYlbvqBIRNQOXUO_B3u2Tm7JGvknTYm?usp=sharing)

@@ -17,16 +17,17 @@ Dataset berisi teks aktivitas pengguna dengan label kategori Persona dan Tingkat
 - **Evaluasi**: Cross-validation, akurasi, precision, recall, dan F1-score.
 
 ## Hasil
-**Model Persona (Akurasi: 98.94%)**
-**Model Tingkat Aktivitas (Akurasi: 84.62%)**
+**Model Persona (Akurasi: 98.94%)** :star:  
+**Model Tingkat Aktivitas (Akurasi: 84.62%)** :chart_with_upwards_trend:
 
 ## Poin Perbaikan yang Diperlukan
 
 ### 1. Menambah Dataset
-Model yang digunakan saat ini dilatih dengan dataset yang terbatas. Untuk meningkatkan performa dan generalisasi model, sangat disarankan untuk menambah dataset yang lebih beragam dan berkualitas.
+Model yang digunakan saat ini dilatih dengan dataset yang terbatas. Untuk meningkatkan performa dan generalisasi model, sangat disarankan untuk menambah dataset yang lebih beragam dan berkualitas. :file_folder:
+
 ### 2. Meningkatkan Akurasi Model Tingkat Aktivitas (>90%)
-Model saat ini mencapai akurasi 84,62% untuk klasifikasi Tingkat Aktivitas, yang masih kurang dari target >90%.
+Model saat ini mencapai akurasi 84,62% untuk klasifikasi Tingkat Aktivitas, yang masih kurang dari target >90%. :trophy:
 
 ## Download Model
-- [Download Model Persona (Fold 3)](https://drive.google.com/drive/folders/1BKakPl7nb4rCx7kssn9hS5blkA3YWtHG?usp=sharing)
-- [Download Model Tingkat Aktivitas (Fold 3)](https://drive.google.com/drive/folders/1WrYlbvqBIRNQOXUO_B3u2Tm7JGvknTYm?usp=sharing)
+- [Download Model Persona (Fold 3)](https://drive.google.com/drive/folders/1BKakPl7nb4rCx7kssn9hS5blkA3YWtHG?usp=sharing) :floppy_disk:
+- [Download Model Tingkat Aktivitas (Fold 3)](https://drive.google.com/drive/folders/1WrYlbvqBIRNQOXUO_B3u2Tm7JGvknTYm?usp=sharing) :floppy_disk:
